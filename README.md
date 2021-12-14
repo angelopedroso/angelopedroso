@@ -1,6 +1,6 @@
 ## Opaa! Eu sou o Angelo
  <div style = "display: grid; grid-template-columns: 1fr 1fr">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=angelopedroso&show_icons=true&bg_color=DEG,485461,28313b&icon_color=23edcb&text_color=fff&title_color=23edcb&border_color=23edcb&include_all_commits=true&count_private=true"/>
+  <img height="auto" style = "float: left;" src="https://github-readme-stats.vercel.app/api?username=angelopedroso&show_icons=true&bg_color=DEG,485461,28313b&icon_color=23edcb&text_color=fff&title_color=23edcb&border_color=23edcb&include_all_commits=true&count_private=true"/>
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopedroso&layout=compact&langs_count=7&&bg_color=DEG,485461,28313b&icon_color=23edcb&text_color=fff&title_color=23edcb&border_color=23edcb&border_radius=2px"/>
  </div>
 
