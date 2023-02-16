@@ -1,5 +1,5 @@
 ## Opaa! Eu sou o Angelo
- <div style = "display: flex">
+ <div style="display: flex; gap: 1rem; width: 100vw;">
   <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=angelopedroso&show_icons=true&bg_color=DEG,485461,28313b&icon_color=23edcb&text_color=fff&title_color=23edcb&border_color=23edcb&include_all_commits=true&count_private=true"/>
   <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopedroso&layout=compact&langs_count=7&&bg_color=DEG,485461,28313b&icon_color=23edcb&text_color=fff&title_color=23edcb&border_color=23edcb&border_radius=2px"/>
  </div>
