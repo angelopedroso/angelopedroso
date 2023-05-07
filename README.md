@@ -47,7 +47,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=angelopedroso&theme=react&show_icons=true&include_all_commits=true" />
+  [![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelopedroso&&theme=react&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelopedroso&theme=react&layout=compact" />
 </p>
 
