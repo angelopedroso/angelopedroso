@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **angelopedroso0@gmail.com**
 
-- ⚡ What I like to do: **I like so much train (gym)...and coding of course**
+- ⚡ What I like to do: **I like so much train (gym)... and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
