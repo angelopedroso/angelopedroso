@@ -52,5 +52,3 @@
 </p>
 
 ------
-
-[angelopedroso](https://github.com/angelopedroso)
