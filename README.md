@@ -42,10 +42,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="sass" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="sass" width="50" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://i.ibb.co/tHSQFhL/styled.png" alt="styled components" width="40" height="40"/> 
+  <a href="https://styled-components.com" target="_blank"> 
+    <img src="https://i.ibb.co/tHSQFhL/styled.png" alt="styled components" width="45" height="40"/> 
   </a>
 </p>
 
