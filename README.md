@@ -50,8 +50,8 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://readmestats.999857.xyz/api?username=angelopedroso&theme=slateorange&show_icons=true&count_private=true" />
-  <img height= "150" src="https://readmestats.999857.xyz/api/top-langs/?username=angelopedroso&theme=slateorange&layout=compact" />
+  <img height= "150" src="https://git-stats-tawny-delta.vercel.app/api?username=angelopedroso&theme=slateorange&show_icons=true&count_private=true" />
+  <img height= "150" src="https://git-stats-tawny-delta.vercel.app/api/top-langs/?username=angelopedroso&theme=slateorange&layout=compact" />
 </p>
 
 ------
