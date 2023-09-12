@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angelo <img height="40" src="https://64.media.tumblr.com/29645b958c2337d77e4bbb6127d6693e/db34c7ee291f8f08-25/s500x750/4c6dce9767ddf89ad5225135053b3bd98acfd3b1.gif"></h1>
 <h3 align="center">A passionate Front-End developer from Brazil</h3>
 
-- 🔭 I’m currently working on **ReactJS, NextJS and React Native**
+- 🔭 I’m currently working on **ReactJS, NextJS, NodeJS and React Native**
 
-- 🌱 I’m currently learning **NodeJS and ThreeJS**
+- 🌱 I’m currently learning **ThreeJS**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
