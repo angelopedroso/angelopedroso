@@ -1,15 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Angelo <img height="40" src="https://64.media.tumblr.com/29645b958c2337d77e4bbb6127d6693e/db34c7ee291f8f08-25/s500x750/4c6dce9767ddf89ad5225135053b3bd98acfd3b1.gif"></h1>
 <h3 align="center">A passionate Front-End developer from Brazil</h3>
 
-- 🔭 I’m currently working on **ReactJS, NextJS, NodeJS and React Native**
+- 🔭 I’m currently working on **ReactJS, NextJS, NestJS and React Native**
 
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **WebRTC**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
 - 📫 How to reach me: **angelopedroso0@gmail.com**
 
-- ⚡ What I like to do: **I like so much train (gym)... and coding of course**
+- ⚡ What I like to do: **I like so much gym... and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -46,6 +47,9 @@
   </a>
   <a href="https://styled-components.com" target="_blank"> 
     <img src="https://i.ibb.co/tHSQFhL/styled.png" alt="styled components" width="45" height="40"/> 
+  </a>
+  <a href="https://socket.io" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="WebSocket" width="45" height="40"/> 
   </a>
 </p>
 
