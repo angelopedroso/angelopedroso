@@ -15,10 +15,10 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelopedroso/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chabetiico)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelopedroso0@gmail.com)
-[![image](https://img.shields.io/badge/portfolio-3A3A3A?style=for-the-badge&logo=devdotto&logoColor=white)](https://angelopedroso.vercel.app/)
+<a href="https://www.linkedin.com/in/angelopedroso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/chabetiico" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:angelopedroso0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://angelopedroso.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-3A3A3A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfolio"></a>
   
 </div>
 
