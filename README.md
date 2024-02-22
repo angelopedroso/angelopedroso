@@ -38,19 +38,33 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://styled-components.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="sass" width="50" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="40"/> 
   </a>
   <a href="https://styled-components.com" target="_blank"> 
     <img src="https://i.ibb.co/tHSQFhL/styled.png" alt="styled components" width="45" height="40"/> 
   </a>
   <a href="https://socket.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="WebSocket" width="45" height="40"/> 
+  </a>
+</p>
+<p align="center"> 
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nest.js" width="40" height="40"/> 
+  </a>
+  <a href="https://www.prisma.io/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma ORM" width="40" height="40"/> 
   </a>
 </p>
 
