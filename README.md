@@ -66,6 +66,15 @@
   <a href="https://www.prisma.io/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma ORM" width="40" height="40"/> 
   </a>
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="JEST" width="40" height="40"/> 
+  </a>
+  <a href="https://vitest.dev" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="VITEST" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="DOCKER" width="40" height="40"/> 
+  </a>
 </p>
 
 <p align= "center">
