@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ReactJS, NextJS, NestJS and React Native**
 
-- 🌱 I’m currently learning **WebRTC**
+- 🌱 I’m currently learning **Architectures**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
